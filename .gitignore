@@ -1,0 +1,6 @@
+site/
+.venv/
+__pycache__/
+.DS_Store
+SETUP.md
+*.pdf
