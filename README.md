@@ -6,7 +6,7 @@
 
 `.NET 10` · `Vue 3` · `PostgreSQL 17` · `RabbitMQ` · `Redis` · `Docker Compose`
 
-### 📄 [Read the walkthrough →](https://YOUR-GITHUB-USERNAME.github.io/warehouse-flow/)
+### 📄 [Read the walkthrough →](https://bbcodingx.github.io/warehouse-flow-showcase/)
 
 *(replace with your GitHub Pages URL once deployed — see [SETUP.md](SETUP.md))*
 
