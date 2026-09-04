@@ -8,7 +8,6 @@
 
 ### 📄 [Read the walkthrough →](https://bbcodingx.github.io/warehouse-flow-showcase/)
 
-*(replace with your GitHub Pages URL once deployed — see [SETUP.md](SETUP.md))*
 
 </div>
 
